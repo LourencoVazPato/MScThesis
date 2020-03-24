@@ -7,9 +7,7 @@ November 2019
 ### Author: Lourenço Vaz Pato
 #### Supervisors: Pedro M. Q. Aguiar, Renato Negrinho
 
-
-
-**[[arXiv](https://arxiv.org/abs/1912.12290)]** **[[CVPR2020]()]** **[[Code](https://github.com/LourencoVazPato/seeing-without-looking)]**
+**[[PDF]()]** **[[arXiv](https://arxiv.org/abs/1912.12290)]** **[[CVPR2020]()]** **[[Code](https://github.com/LourencoVazPato/seeing-without-looking)]**
 
 **Abstract:**
 Current state-of-the-art object detectors rely on a two-stage approach: first, identify regions in the image that are likely to contain objects, then predict the object class inside the regions. Class predictions are made independently from other regions, thus having an insufficient use of context that can be inferred from the presence of other objects. Sharing this information would clearly improve the results of the recognition problem since there are strong dependencies between co-occurrences of objects in the same image (e.g., an image is unlikely to contain both a couch and a horse).
